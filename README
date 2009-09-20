@@ -1,0 +1,39 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2770
+
+"EN"
+ctags and cscope plugin, more convenice way to use ctags and cscope in vim 
+
+Command:
+\jc   Generate tags and cscope database from current directory
+\jst   tags config window
+\jsc  cscope.out config window
+                   
+Requirement:
+ctags and cscope
+win32: $VIM\vim7*\ctags.exe
+win32: $VIM\vim7*\cscope.exe
+
+You can download ctags.exe and cscope.exe from： http://code.google.com/p/easy-vim/
+
+Who can tell me why I can't upload a new version?
+ 
+I don't know why I can't upload a new version, so I start a new branches at: http://www.vim.org/scripts/script.php?script_id=2943
+
+"中文  ZH"
+自动生成并使用ctags和cscope
+
+命令：
+\jc    从当前目录生成tags和cscope.out 
+\jsc  cscope配置窗口
+\jst   tags     配置窗口
+
+系统要求：
+预安装要求ctags和cscope: 
+win32: $VIM\vim7*\ctags.exe
+win32: $VIM\vim7*\cscope.exe
+unix: ctags and cscope
+
+ctags 和cscope Win32版： http://code.google.com/p/easy-vim/
+
+不知道为什么这个页面的我不能够提交新的版本，所以我开了新的分支页面：http://www.vim.org/scripts/script.php?script_id=2943
+
